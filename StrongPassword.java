@@ -2,6 +2,11 @@ import java.util.Scanner;
 
 import java.security.SecureRandom;
 
+/*
+This is a simple java program that will run in the terminal.
+It is intended to provide users with secure passwords that will help them keep their files safe in a password protected vault/sites.
+*/
+
 public class StrongPassword{
     public static void main(String[] args)
     {
