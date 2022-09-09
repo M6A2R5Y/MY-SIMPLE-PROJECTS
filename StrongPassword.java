@@ -5,6 +5,7 @@ import java.security.SecureRandom;
 /*
 This is a simple java program that will run in the terminal.
 It is intended to provide users with secure passwords that will help them keep their files safe in a password protected vault/sites.
+I will add filehandling to this program if there's any needed.
 */
 
 public class StrongPassword{
